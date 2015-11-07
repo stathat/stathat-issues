@@ -1,4 +1,4 @@
-### Bugs, issues, questions, comments
+### StatHat bugs, issues, questions, comments
 
 Please post any issues with the
 [stathat.com](http://www.stathat.com) service via the
